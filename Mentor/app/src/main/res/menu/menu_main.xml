@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.mentor.MainActivity">
+    <item
+        android:id="@+id/itemvMentor"
+        android:title="Create Slots"/>
+    <item
+        android:id="@+id/itemvView"
+        android:title="View"/>
+    <item
+        android:id="@+id/itemvProfiler"
+        android:title="Profile"/>
+    <item
+        android:id="@+id/itemvExit"
+        android:title="Exit"/>
+
+</menu>
